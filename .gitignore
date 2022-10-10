@@ -1,0 +1,9 @@
+# Venv Configuration
+venv/
+
+# IDE configuration
+.*
+!/.gitignore
+# Unneccessary Files
+__pycache__/
+
