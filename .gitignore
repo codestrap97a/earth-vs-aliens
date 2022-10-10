@@ -1,8 +1,0 @@
-# Venv Configuration
-venv/
-
-# IDE configuration
-.*
-
-# Unneccessary Files
-__pycache__/
